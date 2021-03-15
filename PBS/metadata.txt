@@ -381,3 +381,13 @@ MapPosition = 0,14,3
 Outdoor = true
 WildBattleBGM = Battle wild.ogg
 ShowArea = true
+#-------------------------------
+[123]
+# Terracotta Path
+Bicycle = true
+TrainerVictoryME = 019 Victory Against Trainer!.ogg
+WildVictoryME = 011 Victory Against Wild Pokémon!.ogg
+TrainerBattleBGM = 143 Battle! Trainer (Kanto).ogg
+Outdoor = true
+WildBattleBGM = Battle wild.ogg
+ShowArea = true
